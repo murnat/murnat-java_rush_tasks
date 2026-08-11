@@ -1,0 +1,6 @@
+1 New example file
+2 Totest working with files
+3 more text
+4 line
+5 line
+6 line

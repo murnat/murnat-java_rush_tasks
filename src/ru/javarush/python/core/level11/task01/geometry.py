@@ -1,0 +1,9 @@
+import math
+
+
+def circle_area(radius):
+    return math.pi * radius * radius
+
+def rectangle_area(length, width):
+    return width * length
+
